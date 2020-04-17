@@ -1,4 +1,4 @@
-![terminal window](img/terminal_window.png)
+[![terminal_window](img/terminal_window.png)](https://www.robwiederstein.org)
 
 # R Workflow Blog Posts Parts 1 through 3
 
